@@ -2033,29 +2033,23 @@ section {
 }
 
 
-
-
-
-.regbtn2 {
-  width: 50%;
-  margin-top: 10px;
-  margin-bottom: 10px;
-  display: inline-block;
-  padding: 12px 35px;
-  border-radius: 50px;
-  color: #062b69;
-  transition: none;
-  font-size: 16px;
-  font-weight: 500;
-  font-family: "Jost", sans-serif;
-  transition: 0.3s;
-  border: 1px solid #062b69;
+.qnbtn {
+  font-family: arial;
+  color: #d04d29 !important;
+  font-size: 19px;
+  padding: 10px 25px;
+  border-radius: 20px;
+  border: 2px solid #d04d29;
+  background: transparent;
 }
 
-.regbtn2:hover {
-  background-color: #062b69;
-  color: #FFF;
+.qnbtn:hover {
+  color: #ffffff !important;
+  background: #d04d29;
 }
+
+
+
 
 .queriesbtn {
   width: 25%;
