@@ -50,8 +50,8 @@ h6 {
   top: calc(50% - 30px);
   left: calc(50% - 30px);
   border: 6px solid #141414;
-  border-top-color: #fff;
-  border-bottom-color: #fff;
+  border-top-color: #d04d29;
+  border-bottom-color: #d04d29;
   border-radius: 50%;
   width: 60px;
   height: 60px;
@@ -98,13 +98,14 @@ h6 {
 
 .back-to-top i {
   font-size: 24px;
-  color: #fff;
+  color: #ffffff;
   line-height: 0;
 }
 
 .back-to-top:hover {
-  background: #ffffff;
-  color: #000000;
+  color: #fffdfd;
+  background: #d04d29;
+  
 }
 
 .back-to-top.active {
@@ -191,7 +192,7 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #116cc8;
+  color: #d04d29;
 }
 
 .navbar .getstarted,
@@ -201,7 +202,7 @@ h6 {
   border-radius: 50px;
   color: #fff;
   font-size: 14px;
-  border: 2px solid #2054af;
+  border: 2px solid #d04d29;
   font-weight: 600;
 }
 
@@ -346,7 +347,7 @@ h6 {
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #2054af;
+  color: #d04d29;
 }
 
 .navbar-mobile .getstarted,
@@ -382,7 +383,7 @@ h6 {
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
 .navbar-mobile .dropdown ul li:hover>a {
-  color: #2054af;
+  color: #d04d29;
 }
 
 .navbar-mobile .dropdown>.dropdown-active {
@@ -566,7 +567,7 @@ section {
   margin-bottom: 20px;
   padding-bottom: 20px;
   position: relative;
-  color: #37517e;
+  color: #d04d29;
 }
 
 .section-title h2::before {
@@ -2027,7 +2028,7 @@ section {
 }
 
 .rgnbtn:hover {
-  color: #141415 !important;
+  color: #d04d29 !important;
   background: #fdfdfd;
 }
 
