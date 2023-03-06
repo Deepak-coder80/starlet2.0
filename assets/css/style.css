@@ -1236,9 +1236,9 @@ section {
 .pricing .box {
   padding: 60px 40px;
   box-shadow: 0 3px 20px -2px rgba(20, 45, 100, 0.1);
-  background: #fff;
+  background: #282424;
   height: 100%;
-  border-top: 4px solid #fff;
+  border-top: 4px solid #e45f3b;
   border-radius: 5px;
 }
 
@@ -1246,12 +1246,12 @@ section {
   font-weight: 500;
   margin-bottom: 15px;
   font-size: 20px;
-  color: #37517e;
+  color: #d04d29;
 }
 
 .pricing h4 {
   font-size: 48px;
-  color: #37517e;
+  color: #ffffff;
   font-weight: 400;
   font-family: "Jost", sans-serif;
   margin-bottom: 25px;
@@ -1262,7 +1262,7 @@ section {
 }
 
 .pricing h4 span {
-  color: #47b2e4;
+  color: #d04d29;
   font-size: 18px;
   display: block;
 }
@@ -1270,7 +1270,7 @@ section {
 .pricing ul {
   padding: 20px 0;
   list-style: none;
-  color: #999;
+  color: #e2d6d6;
   text-align: left;
   line-height: 20px;
 }
@@ -1281,7 +1281,7 @@ section {
 }
 
 .pricing ul i {
-  color: #28a745;
+  color: #d04d29;
   font-size: 24px;
   position: absolute;
   left: 0;
@@ -1304,31 +1304,31 @@ section {
   display: inline-block;
   padding: 12px 35px;
   border-radius: 50px;
-  color: #062b69;
+  color: #d04d29;
   transition: none;
   font-size: 16px;
   font-weight: 500;
   font-family: "Jost", sans-serif;
   transition: 0.3s;
-  border: 1px solid #062b69;
+  border: 1px solid #d04d29;
 }
 
 .pricing .buy-btn:hover {
-  background: #062b69;
+  background: #d04d29;
   color: #fff;
 }
 
 .pricing .featured {
-  border-top-color: #062b69;
+  border-top-color: #d04d29;
 }
 
 .pricing .featured .buy-btn {
-  background: #062b69;
+  background: #d04d29;
   color: #fff;
 }
 
 .pricing .featured .buy-btn:hover {
-  background: #062b69;
+  background: #d04d29;
 }
 
 @media (max-width: 992px) {
@@ -1641,7 +1641,7 @@ section {
 --------------------------------------------------------------*/
 .breadcrumbs {
   padding: 15px 0;
-  background: #f3f5fa;
+  background: #000000;
   min-height: 40px;
   margin-top: 72px;
 }
@@ -1683,12 +1683,12 @@ section {
 --------------------------------------------------------------*/
 #footer {
   font-size: 14px;
-  background: #062965;
+  background: #d04d29;
 }
 
 #footer .footer-newsletter {
   padding: 50px 0;
-  background: #f3f5fa;
+  background: #d04d29;
   text-align: center;
   font-size: 15px;
   color: #444444;
@@ -1700,7 +1700,7 @@ section {
   padding: 0;
   line-height: 1;
   font-weight: 600;
-  color: #37517e;
+  color: #d04d29;
 }
 
 #footer .footer-newsletter form {
@@ -1728,7 +1728,7 @@ section {
   background: none;
   font-size: 16px;
   padding: 0 20px;
-  background: #062965;
+  background: #d04d29;
   color: #fff;
   transition: 0.3s;
   border-radius: 50px;
@@ -1736,7 +1736,7 @@ section {
 }
 
 #footer .footer-newsletter form input[type="submit"]:hover {
-  background: #209dd8;
+  background: #d04d29;
 }
 
 #footer .footer-top {
@@ -1755,7 +1755,7 @@ section {
   line-height: 1;
   text-transform: uppercase;
   font-weight: 600;
-  color: #37517e;
+  color: #d04d29;
 }
 
 #footer .footer-top .footer-contact p {
@@ -1769,7 +1769,7 @@ section {
 #footer .footer-top h4 {
   font-size: 16px;
   font-weight: bold;
-  color: #37517e;
+  color: #d04d29;
   position: relative;
   padding-bottom: 12px;
 }
@@ -1786,7 +1786,7 @@ section {
 
 #footer .footer-top .footer-links ul i {
   padding-right: 2px;
-  color: #47b2e4;
+  color: #d04d29;
   font-size: 18px;
   line-height: 1;
 }
@@ -1810,14 +1810,14 @@ section {
 
 #footer .footer-top .footer-links ul a:hover {
   text-decoration: none;
-  color: #062965;
+  color: #d04d29;
 }
 
 #footer .footer-top .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #062965;
-  color: #fff;
+  background: #fff;
+  color: #d04d29;
   line-height: 1;
   padding: 8px 0;
   margin-right: 4px;
@@ -1829,7 +1829,7 @@ section {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #209dd8;
+  background: #d04d29;
   color: #fff;
   text-decoration: none;
 }
@@ -1961,17 +1961,17 @@ section {
   padding: 10px 0;
   display: inline-block;
   border-radius: 50px;
-  color: #062b69;
+  color: #d04d29;
   transition: none;
   font-size: 16px;
   font-weight: 500;
   font-family: "Jost", sans-serif;
   transition: 0.3s;
-  border: 1px solid #062b69;
+  border: 1px solid #d04d29;
 }
 
 .popup button:hover {
-  background: #062b69;
+  background: #d04d29;
   color: #fff;
 }
 
@@ -1979,18 +1979,18 @@ section {
   display: inline-block;
   padding: 12px 35px;
   border-radius: 50px;
-  color: #062b69;
-  background-color: #fff;
+  color: #d04d29;
+  background-color: transparent;
   transition: none;
   font-size: 16px;
   font-weight: 500;
   font-family: "Jost", sans-serif;
   transition: 0.3s;
-  border: 1px solid #062b69;
+  border: 1px solid #d04d29;
 }
 
 .popbtn:hover {
-  background: #062b69;
+  background: #d04d29;
   color: #fff;
 }
 
