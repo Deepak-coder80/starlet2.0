@@ -1439,17 +1439,17 @@ section {
 # Contact
 --------------------------------------------------------------*/
 .contact .info {
-  border-top: 3px solid #062965;
-  border-bottom: 3px solid #062965;
+  border-top: 3px solid #d04d29;
+  border-bottom: 3px solid #d04d29;
   padding: 30px;
-  background: #fff;
+  background: #060606;
   width: 100%;
   box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.1);
 }
 
 .contact .info i {
   font-size: 20px;
-  color: #062965;
+  color: #d04d29;
   float: left;
   width: 44px;
   height: 44px;
@@ -1466,14 +1466,14 @@ section {
   font-size: 22px;
   font-weight: 600;
   margin-bottom: 5px;
-  color: #16489f;
+  color: #d04d29;
 }
 
 .contact .info p {
   padding: 0 0 10px 60px;
   margin-bottom: 20px;
   font-size: 14px;
-  color: #062965;
+  color: #ffffff;
 }
 
 .contact .info .email p {
@@ -1500,21 +1500,21 @@ section {
 }
 
 .contact .info .social-links a:hover {
-  background: #062965;
+  background: #d04d29;
   color: #fff;
 }
 
 .contact .info .email:hover i,
 .contact .info .address:hover i,
 .contact .info .phone:hover i {
-  background: #062965;
+  background: #d04d29;
   color: #fff;
 }
 
 .contact .php-email-form {
   width: 100%;
-  border-top: 3px solid #062965;
-  border-bottom: 3px solid #062965;
+  border-top: 3px solid #d04d29;
+  border-bottom: 3px solid #d04d29;
   padding: 30px;
   background: #fff;
   box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
