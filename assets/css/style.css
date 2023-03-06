@@ -15,7 +15,7 @@ body {
 }
 
 a {
-  color: #47b2e4;
+  color: #de7e64;
   text-decoration: none;
 }
 
@@ -1370,7 +1370,7 @@ section {
 
 .faq .faq-list li {
   padding: 20px;
-  background: #fff;
+  background: #080808;
   border-radius: 4px;
   position: relative;
 }
@@ -1392,7 +1392,7 @@ section {
   position: absolute;
   right: 0;
   left: 20px;
-  color: #062b69;
+  color: #d04d29;
 }
 
 .faq .faq-list .icon-show,
@@ -1413,12 +1413,12 @@ section {
 }
 
 .faq .faq-list a.collapsed {
-  color: #37517e;
+  color: #ef8163;
   transition: 0.3s;
 }
 
 .faq .faq-list a.collapsed:hover {
-  color: #062b69;
+  color: #ef633d;
 }
 
 .faq .faq-list a.collapsed .icon-show {
@@ -2064,16 +2064,16 @@ section {
   display: inline-block;
   padding: 12px 35px;
   border-radius: 50px;
-  color: #062b69;
+  color: #d04d29;
   transition: none;
   font-size: 16px;
   font-weight: 500;
   font-family: "Jost", sans-serif;
   transition: 0.3s;
-  border: 1px solid #062b69;
+  border: 1px solid #d04d29;
 }
 
 .queriesbtn:hover {
-  background-color: #062b69;
+  background-color: #d04d29;
   color: #FFF;
 }
