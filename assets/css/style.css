@@ -105,7 +105,7 @@ h6 {
 .back-to-top:hover {
   color: #fffdfd;
   background: #d04d29;
-  
+
 }
 
 .back-to-top.active {
@@ -120,7 +120,7 @@ h6 {
   transition: all 0.5s;
   z-index: 997;
   padding: 15px 0;
-  background-color: #000000;
+  background-color: transparent;
 }
 
 #header.header-scrolled,
@@ -400,7 +400,8 @@ h6 {
   background: #000000;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url('https://cdn.pixabay.com/photo/2016/11/21/12/39/stars-1845140__340.jpg');
+  /* background-image: url('https://images.unsplash.com/photo-1457305237443-44c3d5a30b89?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTF8MTAwNDcwNHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60'); */
+  background-image: url('../img/bg2.jpg');
 }
 
 #hero .container {
@@ -2070,4 +2071,75 @@ section {
 .queriesbtn:hover {
   background-color: #d04d29;
   color: #FFF;
+}
+
+.card {
+  background-color: #282424;
+  height: 550px;
+  font-size: 1em;
+  overflow: hidden;
+  padding: 0;
+  border: none;
+  border-radius: .28571429rem;
+  box-shadow: 0 1px 3px 0 #6d6d79, 0 0 0 1px #61616e;
+}
+
+.card-block {
+  font-size: 1em;
+  position: relative;
+  margin: 0;
+  padding: 1em;
+  border: none;
+  border-top: 1px solid rgba(34, 36, 38, .1);
+  box-shadow: none;
+}
+
+.card-img-top {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.card-title {
+  font-size: 24px;
+  color: #d04d29;
+  font-weight: 700;
+  line-height: 1.2857em;
+}
+
+.card-text {
+  clear: both;
+  margin-top: .5em;
+  color: rgba(0, 0, 0, .68);
+}
+
+.card-footer {
+  font-size: 1em;
+  position: static;
+  top: 0;
+  left: 0;
+  max-width: 100%;
+  padding: .75em 1em;
+  color: rgba(0, 0, 0, .4);
+  border-top: 1px solid rgba(0, 0, 0, .05) !important;
+  background: #282424;
+}
+
+.card-inverse .btn {
+  border: 1px solid rgba(0, 0, 0, .05);
+}
+
+.crbtn {
+  font-family: arial;
+  color: #d04d29 !important;
+  font-size: 14px;
+  padding: 10px 25px;
+  border-radius: 20px;
+  border: 2px solid #d04d29;
+  background: transparent;
+}
+
+.crbtn:hover {
+  color: #ffffff !important;
+  background: #d04d29;
 }
