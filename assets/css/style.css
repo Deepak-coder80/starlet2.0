@@ -2020,17 +2020,17 @@ section {
 
 .rgnbtn {
   font-family: arial;
-  color: #FFFFFF !important;
+  color: #d04d29 !important;
   font-size: 19px;
   padding: 10px 25px;
   border-radius: 10px;
   border: 2px solid #FFFFFF;
-  background: transparent;
+  background: #fdfdfd;
 }
 
 .rgnbtn:hover {
-  color: #d04d29 !important;
-  background: #fdfdfd;
+  color: #fff !important;
+  background: #d04d29;
 }
 
 
