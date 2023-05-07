@@ -2143,3 +2143,10 @@ section {
   color: #ffffff !important;
   background: #d04d29;
 }
+
+.placelink{
+  color: #d8d2d2;
+}
+.placelink:hover{
+  color: #969696;
+}
